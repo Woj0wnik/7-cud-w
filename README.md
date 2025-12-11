@@ -1,1 +1,1 @@
-# 7-cud-w
+# 7-najlepszych-wynalazkow-ktore-zmienily-swiat
