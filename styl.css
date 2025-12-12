@@ -28,6 +28,11 @@ div{
 }
 footer{
   color: white;
+  text-align: center;
+}
+table{
+  align-items: center;
+  border: 3px dashed black;
 }
 h1{
   color: white;
@@ -54,6 +59,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333333;
+  text-align: center;
 }
 
 ul li {
