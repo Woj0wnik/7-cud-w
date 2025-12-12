@@ -1,14 +1,12 @@
 html{
   background-color: #17DBFF;
-}
-header, nav{
-  background-color: #1573EB;
+  text-align: center;
 }
 header{
-  width: 80%;
+  width: 100%;
   float: left;
-  text-align: center;
   color: #E6E6E6;
+  background-color: #1573EB;
 }
 main{
   background-color: #1474C7;
@@ -21,7 +19,6 @@ aside{
 
 }
 footer{
-  text-align: center;
   color: white;
 }
 ul {
@@ -39,7 +36,6 @@ ul li {
 ul li a {
   display: block;
   color: white;
-  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
