@@ -30,9 +30,12 @@ footer{
   color: white;
   text-align: center;
 }
-table{
+#table1{
   align-items: center;
   border: 3px dashed black;
+}
+.td{
+  width: 300px;
 }
 h1{
   color: white;
