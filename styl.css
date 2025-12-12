@@ -37,6 +37,9 @@ footer{
 .td{
   width: 300px;
 }
+th{
+  width: 560px;
+}
 h1{
   color: white;
 }
