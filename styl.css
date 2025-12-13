@@ -33,7 +33,7 @@ div{
   width: 100%;
 }
 #table1{
-  margin-left: 30%;
+  margin-left: 25%;
   border: 3px dashed black;
 }
 .divj{
@@ -47,11 +47,11 @@ div{
 
 .td{
   width: 300px;
-  height: 265px;
+  height: 260px;
 }
 th{
   width: 560px;
-  height: 380px;
+  height: 360px;
 }
 
 h1{
