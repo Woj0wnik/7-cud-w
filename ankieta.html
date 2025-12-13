@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Ankieta</title>
+  <link rel="stylesheet" href="styl.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="grid-container">
+  <header class="header"><h1>Ankieta</h1></header>
+      <div class="divd">
+        <ul>
+            <li><a href="druk.html">Druk</a></li>
+            <li><a href="silnik.html">Silnik</a></li>
+            <li><a href="elek.html">Elektryczność</a></li>
+            <li><a href="anty.html">Antybiotyki</a></li>
+            <li><a href="komputer.html">Komputer</a></li>
+            <li><a href="internet.html">Internet</a></li>
+            <li><a href="ankieta.html">Ankieta</a></li>
+        </ul>
+    </div>
+<fieldset>
+    <h1>Jak się nazywasz?</h1>
+    <input type="text" id="fname" name="fname"><br>
+
+
+    <h1 style="text-align: center; color: white;">Bez których wynalazków byśmy mógłbyś nadal żyć?</h1>
+    <form>
+        <input type="checkbox" id="r1" name="r1" value="naj">
+        <label for="r1"> Koło</label><br>
+        <input type="checkbox" id="r2" name="r2" value="naj2">
+        <label for="r2"> Druk</label><br>
+        <input type="checkbox" id="r3" name="r3" value="naj3">
+        <label for="r3"> Silnik</label><br>
+        <input type="checkbox" id="r4" name="r4" value="naj4">
+        <label for="r4"> Elektryczność</label><br>
+        <input type="checkbox" id="r5" name="r5" value="naj5">
+        <label for="r5"> Antybiotyki</label><br>
+        <input type="checkbox" id="r5" name="r5" value="naj6">
+        <label for="r6"> Komputer</label><br>
+        <input type="checkbox" id="r7" name="r7" value="naj7">
+        <label for="r7"> Internet</label>
+      </form><br>
+
+<h1 style="color: white; text-align: center;">Najważniejszy wynalazek?</h1>
+    <input list="najwynalazek">
+    <datalist id="najwynalazek">
+      <option value="Koło"></option>
+      <option value="Druk"></option>
+      <option value="Silnik"></option>
+      <option value="Elektryczność"></option>
+      <option value="Antybiotyki"></option>
+      <option value="Komputer"></option>
+      <option value="Internet"></option>
+    </datalist><br><br>
+
+        <input type="submit" value="Wyczyść"><br>
+        <input type="submit" value="Wyślij">
+
+</fieldset>
+</div>
+</body>
+</html>
