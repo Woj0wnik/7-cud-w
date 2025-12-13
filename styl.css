@@ -74,9 +74,11 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #B80000;
   text-align: center;
-  width: 150px;
+  width: 300px;
+  float: right;
+  margin-top: -70px;
 }
 
 ul li {
