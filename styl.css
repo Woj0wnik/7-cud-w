@@ -33,8 +33,8 @@ div{
   width: 100%;
 }
 #table1{
-  margin-left: 25%;
   border: 3px dashed black;
+  justify-content: center;
 }
 .divj{
   float: left;
@@ -51,7 +51,7 @@ div{
 }
 th{
   width: 560px;
-  height: 360px;
+  height: 330px;
 }
 
 h1{
