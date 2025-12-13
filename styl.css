@@ -34,7 +34,7 @@ div{
 }
 #table1{
   border: 3px dashed black;
-  justify-content: center;
+  margin-left: 20%;
 }
 .divj{
   float: left;
