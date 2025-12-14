@@ -131,7 +131,11 @@ ul li a:hover {
       margin-top: 20px;
     }
     .aside{
-      display: none;
+      height: 920px;
+      width: 100%;
+    }
+    iframe{
+      width: 350px;
     }
     .divj{
       width: 100%;
